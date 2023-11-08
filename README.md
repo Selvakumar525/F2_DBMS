@@ -1,4 +1,5 @@
 # F2_DBMS
+# Date: 4/8/23
 ## AIM:
 To create a student database and execute DDL queries using SQL.
 ## DDL (Data Definition Language)
